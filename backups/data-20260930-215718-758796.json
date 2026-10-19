@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "settings": {
+    "semester_start": "2026-09-14"
+  },
+  "courses": [
+    {
+      "id": "c-44fa93d3",
+      "name": "通信原理",
+      "teacher": "",
+      "location": "",
+      "weekday": 3,
+      "start": "08:00",
+      "end": "09:40",
+      "week_start": 1,
+      "week_end": 30,
+      "week_parity": "all"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "a-52b738ba",
+      "title": "test",
+      "course_id": "c-44fa93d3",
+      "due": "2026-09-30T23:59",
+      "note": "",
+      "status": "pending",
+      "kind": "hw",
+      "priority": "high",
+      "remind_before": [
+        60,
+        1440
+      ],
+      "reminded": [
+        "b1440"
+      ]
+    }
+  ]
+}
